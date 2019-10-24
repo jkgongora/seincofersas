@@ -304,9 +304,33 @@ ul> li{
 	list-style: none;
 	display: flex;
 	padding: 0;
-	width: 400%;
+	width: auto;
+
 
 }
+
+
+.inicio {
+
+	margin: auto;
+	overflow: hidden;
+}
+
+
+.inicio li {
+
+	list-style: none;
+}
+
+.inicio img {
+	width: 100%;
+}
+
+
+
+
+
+
 
 
 
