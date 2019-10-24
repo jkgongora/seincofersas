@@ -1,0 +1,234 @@
+*{
+	margin:0px;
+	padding:0px;
+	
+
+
+}
+
+body{
+
+		background-image: url("/pictures/slide1.jpg");
+
+}
+
+/*titulo*/
+
+div#titulo{
+	width:100%;
+	margin-top:0px;
+	padding:0px;
+	font-family: fantasy, Helvetica Neue; 
+}
+
+p#header{
+	text-align: center;
+	font-size: 4.5em;
+	color:#ff5722;
+	padding:0px;
+	
+}
+
+p#subheader{
+	text-align: center;
+	color:#6e1d79;
+	margin-top:0px;
+	font-size: 1.8em;
+}
+
+header{
+	margin:100px auto;
+	width:1200px;
+	height:170px;
+	background-color: #ff5722;
+	font-family: fantasy, Helvetica Neue; 
+}
+
+div.contenedor{
+	width: 200px;
+	height: 30px;
+	
+	float:left;
+	-webkit-transition: height .2s;
+}
+
+div#uno{
+	background-color: rgb(88, 219, 38);
+}
+
+div#dos{
+	background-color: rgb(150, 233, 26);
+}
+
+div#tres{
+	background-color: rgb(22,145,190);
+}
+
+div#cuatro{
+	background-color: rgb(22,107,162);
+}
+
+div#cinco{
+	background-color: rgb(27,54,71);
+}
+
+div#seis{
+	background-color: rgb(21,40,54);
+}
+
+ a.spam{
+	display: block;
+	margin:50px auto;
+	background-color: rgba(255,255,255,.15);
+	width:40px;
+	padding:20px;
+	-webkit-border-radius: 50%;
+	-webkit-box-shadow: 0px 0px 0px 30px rgba(255,255,255,0);
+	-webkit-transition:box-shadow .4s;
+
+}
+img.icon{
+	display: block;
+	margin:50px auto;
+	background-color: rgba(255,255,255,.15);
+	width:40px;
+	padding:20px;
+	-webkit-border-radius: 50%;
+	-webkit-box-shadow: 0px 0px 0px 30px rgba(255,255,255,0);
+	-webkit-transition:box-shadow .4s;
+}
+
+p.texto{
+	font-size: 1.2em;
+	color:#ff5722;
+	text-align: center;
+	padding-top:10px;
+	opacity: .6;
+	-webkit-transition: padding-top .4s;
+}
+
+div.contenedor:hover{
+	height:170px;
+}
+
+div.contenedor:hover p.texto{
+	padding-top: 30px;
+	opacity: 1;
+}
+
+div.contenedor:hover img.icon{
+	-webkit-box-shadow:0px 0px 0px 0px rgba(255,255,255,.6);
+}
+
+
+.margen{
+
+
+	width: 800px;
+	max-width: 100%;
+	margin: 30px auto;
+}
+
+
+.margen .secciones {
+	width: 105%;
+	background-color: #DC7B3A;
+}
+
+.secciones > article{
+
+	
+	width: 800px;
+	max-width: 90%;
+	margin: 30px auto;
+	padding:20px;
+    width: 90%;
+	background-color: #ddecf659;
+}
+
+.secciones > article > p {
+
+	text-align: justify;
+}
+
+.text-tabs {
+
+	text-align: justify;
+	font-size: 1.3em;
+	color:#6e1d79;
+	font-family: Helvetica Neue; 
+
+
+}
+
+}
+
+
+.active{
+	background: #0984CC;
+}
+
+
+
+p.text-title {
+
+	font-size: 1.0em;
+    font-weight: 600;
+  }
+
+  .tect-org {
+
+  	  margin-left: 8px;
+  	  padding: 20px;
+  	  margin-bottom: 100px;
+  }
+
+img.img-article {
+
+	 border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 1000px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
