@@ -1,7 +1,7 @@
 *{
 	margin:0px;
 	padding:0px;
-	zoom:75%;
+	
 
 
 }
@@ -203,11 +203,19 @@ div#footer p{
 
   .text-footer {
 
-  	  margin-left: 8px;
-  	  padding: 20px;
+  	  margin-left: 0px;
+  	  padding: 0px;
   	  margin-bottom: 100px;
   	  color:#FFFFFF;
   }
+
+
+.text-contact {
+
+ 
+  	  padding: 20px;
+  }
+
 
 img.img-article {
 
@@ -287,7 +295,7 @@ ul> li{
   	margin-left: auto;
   	margin-right: auto;
   	padding: 20px;
-  	width: 50%;
+  	width: 8em;
 
 }
 .inicio  ul{
