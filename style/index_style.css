@@ -187,7 +187,7 @@ div#footer p{
 }
 
   .text-org{
-	font-size: 2.3em;
+	font-size: 2em;
 	font-family: fantasy, Helvetica Neue;
 
   }
@@ -327,7 +327,13 @@ ul> li{
 }
 
 
+.cotizacion  ul li {
 
+	list-style: none;
+	display: flex;
+	padding: 0;
+	width: auto;
+}
 
 
 
